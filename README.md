@@ -1,6 +1,6 @@
 # Analysis and Modeling of Financial Time Series
 
-This Jupyter notebook is designed to provide insights into historical trends and forecast future movements in financial time series data. It employs data analysis, machine learning, and predictive modeling techniques to facilitate these analyses.
+This is a self-explanatory Jupyter notebook that leverages data analysis, machine learning, and predictive modeling techniques to gain insights into historical trends and forecast future movements.
 
 ## Getting Started
 
