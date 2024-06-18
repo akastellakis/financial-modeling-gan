@@ -1,4 +1,4 @@
-# Analysis and Modeling of Financial Time Series
+# Generative Modeling and Analysis for Financial Time Series
 
 This is a self-explanatory Jupyter notebook that leverages data analysis, machine learning, and predictive modeling techniques to gain insights into historical trends and forecast future movements.
 
